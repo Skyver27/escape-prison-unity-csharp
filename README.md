@@ -28,6 +28,20 @@ This project helped me practice:
 - Inventory and item interaction logic
 - Debugging
 
+## Screenshots
+
+### Main Menu
+
+![Escape Prison main menu](docs/screenshots/main-menu.jpg)
+
+### Gameplay
+
+![Escape Prison gameplay](docs/screenshots/gameplay.jpg)
+
+### Inventory / Item Interaction
+
+![Escape Prison inventory interaction](docs/screenshots/inventory.jpg)
+
 ## Project Background
 
 This was created as a learning project while completing the Udemy course **Learn to Code by Making Games – Complete C# Unity Developer**.
